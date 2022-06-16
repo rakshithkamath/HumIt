@@ -1,4 +1,4 @@
-dejavu
+HumIt
 ==========
 
 Audio fingerprinting and recognition algorithm implemented in Python, see the explanation here:  
